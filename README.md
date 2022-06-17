@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mirmli22
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
+- I have experience with C#, Javascript, SQL, Visual Basic, and Front End Coding
 
 <!---
 mirmli22/mirmli22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
